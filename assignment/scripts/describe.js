@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We make a variable called name and set it to Dane
+// If name was absolute to Mary, it will log to 'Hi Mary!'
+// If name doesn't absolute to Mary, it will log to 'How do you do?'
 //
 
 //CODE
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We create variables 'secret' and 'code' and set code to equal '123'
+// If the variable code is absolute of 123, the variable secret will run 'super' and we will multiply the code by 2
+// If the variable code is greater than 250, variable secret will run as 'duper'
+// We console log 'secret' and 'super' will log.
 
 //CODE
 /*
@@ -70,10 +70,11 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We create variables 'isStudent','age','zip', and we set them to equal 'true','34','55407' respectively
+// If 'isStudents" is absolutely both 'true' and 'zip' greater than 80k, 'isStudents' will run 'You're a student at West Coast!'
+// If not, then 'isStudent' will check if either 'false' or age is less than 30 and will run 'What are your hobbies?'
+// If only 'isStudent' is absolutely true, it will run 'Welcome to Prime!'
+// If only 'isStudent' is all else, it will run 'How about the weather?'
 
 //CODE
 /*
